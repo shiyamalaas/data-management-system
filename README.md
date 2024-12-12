@@ -27,4 +27,3 @@ npm run dev
 cd ../server
 python app.py
 
- 
